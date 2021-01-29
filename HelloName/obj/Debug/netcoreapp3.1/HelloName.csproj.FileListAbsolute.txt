@@ -1,0 +1,13 @@
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.exe
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.deps.json
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.runtimeconfig.json
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.runtimeconfig.dev.json
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.dll
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\bin\Debug\netcoreapp3.1\HelloName.pdb
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.csprojAssemblyReference.cache
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.AssemblyInfoInputs.cache
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.AssemblyInfo.cs
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.dll
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.pdb
+C:\Users\Vishal\Documents\GitHub\IS421CommandLineApp\HelloName\obj\Debug\netcoreapp3.1\HelloName.genruntimeconfig.cache

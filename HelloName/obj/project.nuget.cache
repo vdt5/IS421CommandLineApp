@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0JIqN499+QVXoVNcDV/OiebpY9oy/VWByBgSIFOa00gKb8I1PZ2+Zvc0SvMQrV4PszYsGdJVYDM+3qHDE5wosg==",
+  "dgSpecHash": "iIkpRMkqYOLIe0cJ8p9xnZNnIz11kdCgKhEYEw+nqlghM04s/36lrY717E8Xns52pMIOXIGWKCh3FhsuAx+5AQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vishal\\Documents\\GitHub\\IS421CommandLineApp\\HelloName\\HelloName.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
