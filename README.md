@@ -1,4 +1,6 @@
 # IS421CommandLineApp
  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ Program displays hello and person name
+ 
+![alt text](https://raw.githubusercontent.com/vdt5/IS421CommandLineApp/main/screenshot.PNG)
 
